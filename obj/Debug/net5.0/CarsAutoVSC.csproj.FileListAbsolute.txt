@@ -1,0 +1,5 @@
+C:\CarsAutoVSC\obj\Debug\net5.0\CarsAutoVSC.csprojAssemblyReference.cache
+C:\CarsAutoVSC\obj\Debug\net5.0\CarsAutoVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\CarsAutoVSC\obj\Debug\net5.0\CarsAutoVSC.AssemblyInfoInputs.cache
+C:\CarsAutoVSC\obj\Debug\net5.0\CarsAutoVSC.AssemblyInfo.cs
+C:\CarsAutoVSC\obj\Debug\net5.0\CarsAutoVSC.csproj.CoreCompileInputs.cache
