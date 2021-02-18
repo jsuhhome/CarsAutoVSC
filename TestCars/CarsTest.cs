@@ -55,12 +55,6 @@ namespace TestCars.Tests
         }
 
 
-        ~CarsTest()
-        {
-            driver.Dispose();
-        }
-
-
         [Fact]
         public void CarsTest1()
         {
@@ -120,8 +114,9 @@ namespace TestCars.Tests
 
             System.Threading.Thread.Sleep(3000);
 
-            // you'll have to manually close out the browser
-            
+            // should be in end tear down method
+            driver.Close();
+            driver.Quit();
         }
     }
 
